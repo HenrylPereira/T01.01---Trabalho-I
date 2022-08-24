@@ -18,6 +18,9 @@ pause
 :opcao2
 cls
 echo Os comandos disponiveis sao --version, --help, data.
+echo --version Mostra a versão do software
+echo --help Mostra as opcoes do sistema
+echo data Mostra a data atual
 goto :menu
 pause
 
